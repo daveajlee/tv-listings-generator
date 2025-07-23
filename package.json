@@ -1,0 +1,10 @@
+{
+  "name": "tv-listings-generator",
+  "version": "0.0.1",
+  "dependencies": {
+    "concurrently": "^9.2.0"
+  },
+  "scripts": {
+    "start": "concurrently \"cd api && npm run start\" \"cd ui && npm run dev\""
+  }
+}
