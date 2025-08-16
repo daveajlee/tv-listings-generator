@@ -1,6 +1,6 @@
-# TV Listings Generator
-
-## Introduction
+<p align="center">
+<img src="https://www.davelee.de/common/assets/img/portfolio/tvlistingsgenerator.webp" alt="Contacty" width="300" height="300">
+</p>
 
 TV Listings Generator is a simple way to generate TV schedules for a series of weeks.
 
